@@ -1,1 +1,4 @@
 VUE FIREBASE ile PROJE
+* App.vue içini temizledik
+* bootstrap ekleyelim, index.html'ye css cdn i ve js dosyaları
+* main.js e vuefire import ettik ve ekledik
